@@ -12,6 +12,9 @@
         <div>
             <asp:Button ID="Button1" runat="server" Text="Button" />
             Test de sincronizacion<asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
+            <asp:CheckBoxList ID="CheckBoxList1" runat="server">
+            </asp:CheckBoxList>
+            <asp:Image ID="Image1" runat="server" />
         </div>
     </form>
 </body>
