@@ -11,7 +11,7 @@
     <form id="form1" runat="server">
         <div>
             <asp:Button ID="Button1" runat="server" Text="Button" />
-        </div>
+            Test de sincronizacion</div>
     </form>
 </body>
 </html>
